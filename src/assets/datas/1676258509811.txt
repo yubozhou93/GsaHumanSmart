@@ -1,0 +1,65 @@
+title : fake title 1 CRA
+journalName : PloS one
+issue : 12
+volume : 17
+pmid : 36584179
+year : 2022
+month : 12
+doi : 10.1371/journal.pone.0279849
+gsaAccessions : CRA000005,CRA008737,CRA008738,CRA008739
+isUnique : 1
+
+title : fake title 2 subCRA
+journalName : BMC medicine
+issue : 1
+volume : 20
+pmid : 36581917
+year : 2022
+month : 12
+doi : 10.1186/s12916-022-02696-4
+gsaAccessions : subCRA013508,subCRA000332,subCRA000333,subCRA000336,subCRA000034
+isUnique : 1
+
+title : fake title 3 HRA
+journalName : Nucleic Acids Research
+issue : 1
+volume : 120
+pmid : 36574697
+year : 2022
+month : 12
+doi : 10.1073/pnas.2211683120
+gsaAccessions : HRA003335,HRA003336
+isUnique : 1
+
+title : fake title 4 subHRA
+journalName : Nature
+issue : 1
+volume : 120
+pmid : 36706185
+year : 2022
+month : 12
+doi : 10.1126/sciadv.add8977
+gsaAccessions : subHRA004753,subHRA00195,subHRA000257
+isUnique : 1
+
+title : fake title 5 PRJ
+journalName : Nature
+issue : 1
+volume : 120
+pmid : 36701367
+year : 2022
+month : 12
+doi : 10.1073/pnas.2216851120
+gsaAccessions : PRJCA666666,PRJCA004774,PRJCA000508,PRJCA000354,sadca000000,PRJCA011039
+isUnique : 1
+
+title : fake title 6 OMIX
+journalName : Nature
+issue : 1
+volume : 120
+pmid : 25661180
+year : 2022
+month : 12
+doi : 10.1371/journal.pone.0059908
+gsaAccessions : OMIX002858,OMIX001012
+isUnique : 1

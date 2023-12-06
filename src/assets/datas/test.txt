@@ -1,0 +1,21 @@
+title : fake title 5 PRJ
+journalName : aaa
+issue : 1
+volume : 120
+pmid : 36701367
+year : 2014
+month : Feb
+doi : 10.1073/pnas.2216851120
+gsaAccessions : PRJCA666666
+isUnique : 1
+
+title : fake title 2 subCRA
+journalName : BMC medicine
+issue : 1
+volume : 20
+pmid : 36581917
+year : 2023
+month : 13 
+doi : 10.1186/s12916-022-02696-4
+gsaAccessions : subCRA013508
+isUnique : 0

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b38f4bf-54ba-4cb2-89d4-bb03c463031c" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/assets/gsaHumanHome-78f010cc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/gsaHumanHome-bb7ae665.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/review-7f23ea1b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/GsaHuman-28b4884a.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/GsaHuman-67e5b1d0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/dac-29a8ff0f.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/dac-8eb8e4f0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/dacHistory-a63f33d2.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/dacHistory-e0829adc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-button-99aeffcf.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-button-2cb724e7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-divider-49c0a41b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-divider-76a2edfd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-form-item-5401835d.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-form-item-e71ecdb7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-input-9179ab91.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-input-4ddd1750.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-message-6b98c484.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-message-2f40eced.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-overlay-c1698520.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-overlay-723677d7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-pagination-30f3a258.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-pagination-3535b4ec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-progress-42885066.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-progress-2993a12c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-radio-4cc15574.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-radio-96a811c0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-scrollbar-685d3945.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-scrollbar-92e123ce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-tab-pane-d6d11d00.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-tab-pane-8a0078a5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/el-table-column-d789671f.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/el-table-column-ed8ea566.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/gsaHumanHome-d2fb5168.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/gsaHumanHome-e093a806.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/history-d302f5d3.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/history-90897a72.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/home-4a7f9ddb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/home-55d7156e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-26c03fda.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/index-84ad59d9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index-72f796d5.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/index-4bc98596.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/modifyMetaData-7c78ad9d.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/modifyMetaData-1c16fd67.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/publication-a67313bb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/publication-beb8c7b1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/review-038af0c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/review-dd8e84dc.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/review-5b85a4ae.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/scroll-ab45da14.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/scroll-8bfc6989.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/basicInfo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/basicInfo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/hgripInformation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/hgripInformation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/individual.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/individual.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/modifyMetaData.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/modifyMetaData.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/pendingReview.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/pendingReview.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/reviewLink.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/GsaHumanHome/cps/reviewLink.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d3a0e54d-35c1-4fa1-a25a-e2529e0ef1b7" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVFR3BL7PfvadIuQtMvVec73tA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/NGDC Work Space/SmartHome&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0b38f4bf-54ba-4cb2-89d4-bb03c463031c" name="变更" comment="" />
+      <created>1683534330799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683534330799</updated>
+      <workItem from="1683534332658" duration="755000" />
+      <workItem from="1683597975313" duration="61000" />
+      <workItem from="1683598506722" duration="151000" />
+      <workItem from="1683872142118" duration="1857000" />
+      <workItem from="1700532343762" duration="35000" />
+      <workItem from="1701842287416" duration="785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
